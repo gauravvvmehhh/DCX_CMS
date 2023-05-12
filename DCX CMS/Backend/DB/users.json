@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "643cfef79107c6630ae1109b"
+  },
+  "FullName": "Austin Paige",
+  "Email": "paige-austin@info.com",
+  "Group": "Registered"
+},{
+  "_id": {
+    "$oid": "643f8e370c076aaac841b7be"
+  },
+  "FullName": "Gaurav",
+  "Email": "gaurav@info.com",
+  "Group": "Admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444052d1d363fbb8192f566"
+  },
+  "FullName": "John Wick",
+  "Email": "wick@info.com",
+  "Group": "Registered",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444054e1d363fbb8192f56b"
+  },
+  "FullName": "Haley Maya",
+  "Email": "maya@info.com",
+  "Group": "Registered",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64475b5820a13cd9fa01ee67"
+  },
+  "FullName": "Gaurav",
+  "Email": "xyz@info.com",
+  "Group": "Admin",
+  "__v": 0
+}]

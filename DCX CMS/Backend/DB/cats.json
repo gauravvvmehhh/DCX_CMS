@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "643ade7cc3898ce72e613095"
+  },
+  "Category": "Sample Category One"
+},{
+  "_id": {
+    "$oid": "643adea7c3898ce72e613096"
+  },
+  "Category": "Sample Category Three"
+},{
+  "_id": {
+    "$oid": "643adeccc3898ce72e613097"
+  },
+  "Category": "Sample Category Two"
+}]
